@@ -1,3 +1,3 @@
 # Hello-Worl
-It's just a try
+It's just a test
 This is Lei XIONG. 
